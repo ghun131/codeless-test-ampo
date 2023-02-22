@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ghun131/codeless-test-ampo/issues"
   },
-  "homepage": "https://github.com/ghun131/codeless-test-ampo#readme"
+  "homepage": "https://github.com/ghun131/codeless-test-ampo#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
 }
